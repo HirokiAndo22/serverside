@@ -7,7 +7,7 @@
 
     <body>
         <h1>数当てゲーム</h1>
-        <form method="get" action="6-2.php">
+        <form method="get" action="12-4-1.php">
             <p>数字を入力してください
                 <input type="text" name="data">
                 <input type="submit" value="送信">
